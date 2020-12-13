@@ -1,7 +1,0 @@
-#!/bin/bash
-for record in *.asc
-do
-    echo $record
-    echo "Converting recording to QRS ..."
-    wrann -r $record -a qrs < $record.asc
-done

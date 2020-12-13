@@ -1,5 +1,5 @@
 #!/bin/bash
-for record in data/*.asc
+for record in data/*.det
 do
     cd /home/ziva/Desktop/OBBS_1/data;
     echo "Converting $(basename ${record%.*}) to QRS ..."
