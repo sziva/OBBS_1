@@ -1,0 +1,960 @@
+Beat-by-beat comparison results for record 100
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2270    0    0    0    2    0
+ V |    1    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  529    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.91% (2271/2273)
+ QRS positive predictivity:  81.11% (2271/2800)
+           VEB sensitivity:   0.00% (0/1)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2799)
+
+Beat-by-beat comparison results for record 101
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1858    0    0    0    5    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    2    0    0    0    0    0
+ O |  480    0    0    0
+ X |    2    0    0    0
+
+           QRS sensitivity:  99.73% (1860/1865)
+ QRS positive predictivity:  79.42% (1860/2342)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2342)
+
+Beat-by-beat comparison results for record 102
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N |   98    0    0    0    1    0
+ V |    4    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q | 2083    0    0    0    1    0
+ O |  479    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.91% (2185/2187)
+ QRS positive predictivity:  82.02% (2185/2664)
+           VEB sensitivity:   0.00% (0/4)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2660)
+
+Beat-by-beat comparison results for record 103
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2084    0    0    0    0    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  582    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity: 100.00% (2084/2084)
+ QRS positive predictivity:  78.17% (2084/2666)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2666)
+
+Beat-by-beat comparison results for record 104
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N |  163    0    0    0    0    0
+ V |    2    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q | 2055    0    0    0    9    0
+ O |  573    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.60% (2220/2229)
+ QRS positive predictivity:  79.48% (2220/2793)
+           VEB sensitivity:   0.00% (0/2)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2791)
+
+Beat-by-beat comparison results for record 105
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2510    0    0    0   16    0
+ V |   41    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    5    0    0    0    0    0
+ O |  751    0    0    0
+ X |    8    0    0    0
+
+           QRS sensitivity:  99.38% (2556/2572)
+ QRS positive predictivity:  77.10% (2556/3315)
+           VEB sensitivity:   0.00% (0/41)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3274)
+
+Beat-by-beat comparison results for record 106
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1506    0    0    0    1    0
+ V |  502    0    0    0   18    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  420    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.06% (2008/2027)
+ QRS positive predictivity:  82.70% (2008/2428)
+           VEB sensitivity:   0.00% (0/520)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/1926)
+
+Beat-by-beat comparison results for record 107
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N |    0    0    0    0    0    0
+ V |   57    0    0    0    2    0
+ F |    0    0    0    0    0    0
+ Q | 2077    0    0    0    1    0
+ O | 1001    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.86% (2134/2137)
+ QRS positive predictivity:  68.07% (2134/3135)
+           VEB sensitivity:   0.00% (0/59)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3078)
+
+Beat-by-beat comparison results for record 108
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1726    0    0    0   18    0
+ V |   17    0    0    0    0    0
+ F |    2    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O | 1068    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  98.98% (1745/1763)
+ QRS positive predictivity:  62.03% (1745/2813)
+           VEB sensitivity:   0.00% (0/17)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2796)
+
+Beat-by-beat comparison results for record 109
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2491    0    0    0    1    0
+ V |   38    0    0    0    0    0
+ F |    2    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  861    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.96% (2531/2532)
+ QRS positive predictivity:  74.62% (2531/3392)
+           VEB sensitivity:   0.00% (0/38)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3354)
+
+Beat-by-beat comparison results for record 111
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2121    0    0    0    2    0
+ V |    1    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  630    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.91% (2122/2124)
+ QRS positive predictivity:  77.11% (2122/2752)
+           VEB sensitivity:   0.00% (0/1)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2751)
+
+Beat-by-beat comparison results for record 112
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2514    0    0    0   25    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  656    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.02% (2514/2539)
+ QRS positive predictivity:  79.31% (2514/3170)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3170)
+
+Beat-by-beat comparison results for record 113
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1793    0    0    0    2    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  426    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.89% (1793/1795)
+ QRS positive predictivity:  80.80% (1793/2219)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2219)
+
+Beat-by-beat comparison results for record 114
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1831    0    0    0    1    0
+ V |   43    0    0    0    0    0
+ F |    4    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  463    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.95% (1878/1879)
+ QRS positive predictivity:  80.22% (1878/2341)
+           VEB sensitivity:   0.00% (0/43)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2298)
+
+Beat-by-beat comparison results for record 115
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1952    0    0    0    1    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  468    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.95% (1952/1953)
+ QRS positive predictivity:  80.66% (1952/2420)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2420)
+
+Beat-by-beat comparison results for record 116
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2281    0    0    0   22    0
+ V |  108    0    0    0    1    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  615    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.05% (2389/2412)
+ QRS positive predictivity:  79.53% (2389/3004)
+           VEB sensitivity:   0.00% (0/109)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2896)
+
+Beat-by-beat comparison results for record 117
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1535    0    0    0    0    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  386    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity: 100.00% (1535/1535)
+ QRS positive predictivity:  79.91% (1535/1921)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/1921)
+
+Beat-by-beat comparison results for record 118
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2244    0    0    0   18    0
+ V |   16    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  593    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.21% (2260/2278)
+ QRS positive predictivity:  79.21% (2260/2853)
+           VEB sensitivity:   0.00% (0/16)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2837)
+
+Beat-by-beat comparison results for record 119
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1543    0    0    0    0    0
+ V |  444    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  541    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity: 100.00% (1987/1987)
+ QRS positive predictivity:  78.60% (1987/2528)
+           VEB sensitivity:   0.00% (0/444)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2084)
+
+Beat-by-beat comparison results for record 121
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1856    0    0    0    6    0
+ V |    1    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  596    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.68% (1857/1863)
+ QRS positive predictivity:  75.70% (1857/2453)
+           VEB sensitivity:   0.00% (0/1)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2452)
+
+Beat-by-beat comparison results for record 122
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2457    0    0    0   19    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  740    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.23% (2457/2476)
+ QRS positive predictivity:  76.85% (2457/3197)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3197)
+
+Beat-by-beat comparison results for record 123
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1513    0    0    0    2    0
+ V |    0    0    0    0    3    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  362    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.67% (1513/1518)
+ QRS positive predictivity:  80.69% (1513/1875)
+           VEB sensitivity:   0.00% (0/3)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/1875)
+
+Beat-by-beat comparison results for record 124
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1567    0    0    0    0    0
+ V |   47    0    0    0    0    0
+ F |    5    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  511    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity: 100.00% (1619/1619)
+ QRS positive predictivity:  76.01% (1619/2130)
+           VEB sensitivity:   0.00% (0/47)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2083)
+
+Beat-by-beat comparison results for record 200
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1773    0    0    0    0    0
+ V |  823    0    0    0    3    0
+ F |    1    0    0    0    1    0
+ Q |    0    0    0    0    0    0
+ O |  736    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.85% (2597/2601)
+ QRS positive predictivity:  77.92% (2597/3333)
+           VEB sensitivity:   0.00% (0/826)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2510)
+
+Beat-by-beat comparison results for record 201
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1744    0    0    0   19    0
+ V |  198    0    0    0    0    0
+ F |    2    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  448    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.03% (1944/1963)
+ QRS positive predictivity:  81.27% (1944/2392)
+           VEB sensitivity:   0.00% (0/198)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2194)
+
+Beat-by-beat comparison results for record 202
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2108    0    0    0    8    0
+ V |   19    0    0    0    0    0
+ F |    1    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  503    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.63% (2128/2136)
+ QRS positive predictivity:  80.88% (2128/2631)
+           VEB sensitivity:   0.00% (0/19)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2612)
+
+Beat-by-beat comparison results for record 203
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2443    0    0    0   88    0
+ V |  383    0    0    0   61    0
+ F |    1    0    0    0    0    0
+ Q |    1    0    0    0    3    0
+ O |  650    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  94.90% (2828/2980)
+ QRS positive predictivity:  81.31% (2828/3478)
+           VEB sensitivity:   0.00% (0/444)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3095)
+
+Beat-by-beat comparison results for record 205
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2572    0    0    0    2    0
+ V |   60    0    0    0   11    0
+ F |   10    0    0    0    1    0
+ Q |    0    0    0    0    0    0
+ O |  664    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.47% (2642/2656)
+ QRS positive predictivity:  79.92% (2642/3306)
+           VEB sensitivity:   0.00% (0/71)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3246)
+
+Beat-by-beat comparison results for record 207
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1615    0    0    0   35    0
+ V |  179    0    0    0   31    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  592    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  96.45% (1794/1860)
+ QRS positive predictivity:  75.19% (1794/2386)
+           VEB sensitivity:   0.00% (0/210)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2207)
+
+Beat-by-beat comparison results for record 208
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1557    0    0    0   31    0
+ V |  954    0    0    0   38    0
+ F |  365    0    0    0    8    0
+ Q |    2    0    0    0    0    0
+ O |  655    0    0    0
+ X |    2    0    0    0
+
+           QRS sensitivity:  97.39% (2878/2955)
+ QRS positive predictivity:  81.41% (2878/3535)
+           VEB sensitivity:   0.00% (0/992)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2581)
+
+Beat-by-beat comparison results for record 209
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2968    0    0    0   36    0
+ V |    1    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  626    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  98.80% (2969/3005)
+ QRS positive predictivity:  82.59% (2969/3595)
+           VEB sensitivity:   0.00% (0/1)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3594)
+
+Beat-by-beat comparison results for record 210
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2435    0    0    0   10    0
+ V |  174    0    0    0   21    0
+ F |    9    0    0    0    1    0
+ Q |    0    0    0    0    0    0
+ O |  704    0    0    0
+ X |    2    0    0    0
+
+           QRS sensitivity:  98.79% (2618/2650)
+ QRS positive predictivity:  78.76% (2618/3324)
+           VEB sensitivity:   0.00% (0/195)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3150)
+
+Beat-by-beat comparison results for record 212
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2748    0    0    0    0    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  686    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity: 100.00% (2748/2748)
+ QRS positive predictivity:  80.02% (2748/3434)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3434)
+
+Beat-by-beat comparison results for record 213
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2666    0    0    0    3    0
+ V |  218    0    0    0    2    0
+ F |  362    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  740    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.85% (3246/3251)
+ QRS positive predictivity:  81.44% (3246/3986)
+           VEB sensitivity:   0.00% (0/220)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3768)
+
+Beat-by-beat comparison results for record 214
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1984    0    0    0   19    0
+ V |  252    0    0    0    4    0
+ F |    1    0    0    0    0    0
+ Q |    2    0    0    0    0    0
+ O |  582    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  98.98% (2239/2262)
+ QRS positive predictivity:  79.37% (2239/2821)
+           VEB sensitivity:   0.00% (0/256)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2569)
+
+Beat-by-beat comparison results for record 215
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 3175    0    0    0   23    0
+ V |  163    0    0    0    1    0
+ F |    1    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  620    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.29% (3339/3363)
+ QRS positive predictivity:  84.34% (3339/3959)
+           VEB sensitivity:   0.00% (0/164)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3796)
+
+Beat-by-beat comparison results for record 217
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N |  244    0    0    0    0    0
+ V |  160    0    0    0    2    0
+ F |    0    0    0    0    0    0
+ Q | 1802    0    0    0    0    0
+ O |  847    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.91% (2206/2208)
+ QRS positive predictivity:  72.26% (2206/3053)
+           VEB sensitivity:   0.00% (0/162)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2893)
+
+Beat-by-beat comparison results for record 219
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2087    0    0    0    2    0
+ V |   64    0    0    0    0    0
+ F |    1    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  529    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.91% (2152/2154)
+ QRS positive predictivity:  80.27% (2152/2681)
+           VEB sensitivity:   0.00% (0/64)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2617)
+
+Beat-by-beat comparison results for record 220
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2040    0    0    0    8    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  495    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.61% (2040/2048)
+ QRS positive predictivity:  80.47% (2040/2535)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2535)
+
+Beat-by-beat comparison results for record 221
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2031    0    0    0    0    0
+ V |  389    0    0    0    7    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  602    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.71% (2420/2427)
+ QRS positive predictivity:  80.08% (2420/3022)
+           VEB sensitivity:   0.00% (0/396)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2633)
+
+Beat-by-beat comparison results for record 222
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2409    0    0    0   74    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  433    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  97.02% (2409/2483)
+ QRS positive predictivity:  84.76% (2409/2842)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2842)
+
+Beat-by-beat comparison results for record 223
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2118    0    0    0    0    0
+ V |  470    0    0    0    3    0
+ F |   14    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  646    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.88% (2602/2605)
+ QRS positive predictivity:  80.11% (2602/3248)
+           VEB sensitivity:   0.00% (0/473)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2778)
+
+Beat-by-beat comparison results for record 228
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1652    0    0    0   39    0
+ V |  362    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  668    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  98.10% (2014/2053)
+ QRS positive predictivity:  75.09% (2014/2682)
+           VEB sensitivity:   0.00% (0/362)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2320)
+
+Beat-by-beat comparison results for record 230
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2254    0    0    0    1    0
+ V |    1    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  605    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.96% (2255/2256)
+ QRS positive predictivity:  78.85% (2255/2860)
+           VEB sensitivity:   0.00% (0/1)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2859)
+
+Beat-by-beat comparison results for record 231
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1569    0    0    0    0    0
+ V |    2    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  346    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity: 100.00% (1571/1571)
+ QRS positive predictivity:  81.95% (1571/1917)
+           VEB sensitivity:   0.00% (0/2)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/1915)
+
+Beat-by-beat comparison results for record 232
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 1779    0    0    0    1    0
+ V |    0    0    0    0    0    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  433    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.94% (1779/1780)
+ QRS positive predictivity:  80.42% (1779/2212)
+           VEB sensitivity:      -  (0/0)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2212)
+
+Beat-by-beat comparison results for record 233
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2183    0    0    0   54    0
+ V |  827    0    0    0    4    0
+ F |   11    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  658    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  98.12% (3021/3079)
+ QRS positive predictivity:  82.11% (3021/3679)
+           VEB sensitivity:   0.00% (0/831)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/2852)
+
+Beat-by-beat comparison results for record 234
+Reference annotator: atr
+     Test annotator: qrs
+
+               Algorithm
+        n    v    f    q    o    x
+   _______________________________
+ N | 2732    0    0    0   18    0
+ V |    2    0    0    0    1    0
+ F |    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0
+ O |  659    0    0    0
+ X |    0    0    0    0
+
+           QRS sensitivity:  99.31% (2734/2753)
+ QRS positive predictivity:  80.58% (2734/3393)
+           VEB sensitivity:   0.00% (0/3)
+ VEB positive predictivity:      -  (0/0)
+   VEB false positive rate:  0.000% (0/3391)
+
