@@ -3,5 +3,5 @@ for record in data/*.qrs
 do
     cd /home/ziva/Desktop/OBBS_1/data;
     echo "Evaluating $(basename ${record%.*}) ..."
-    bxb -r $(basename ${record%.*}) -a atr qrs
+    bxb -r $(basename ${record%.*}) -a atr qrs -L evauationL1.txt evaluationL2.txt
 done
