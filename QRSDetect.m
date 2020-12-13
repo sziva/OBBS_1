@@ -4,7 +4,6 @@
 
 function utripi = QRSDetect(fileName,M, MW, MWD)
 
-    fileName = './data/100m.mat'
     S = load(fileName);
 
 
@@ -38,19 +37,24 @@ function utripi = QRSDetect(fileName,M, MW, MWD)
     gama = 0.15; %0.2
 
     for n=1:MWD:(length(y)-MWD) %premikamo se za korak okna
+        n;
         if n == 1
-            thresold = max(y(n:n+MWD))
+            thresold = max(y(n:n+MWD));
         else
-            [peak, maxInd] = max(y(n:n+MWD)) % da dobimo poleg vrednosti se index
+            [peak, maxInd] = max(y(n:n+MWD)); % da dobimo poleg vrednosti se index
             if peak > thresold
-                thresold = alpha*gama*peak+(1-alpha)*thresold
-                y(maxInd) = 1;
+                y(maxInd + n) = 1;
+                %maxInd
+                %maxIndex = maxInd +n
+                thresold = alpha*gama*peak+(1-alpha)*thresold;
+                
             end
         end
 
     end
-
-    utripi = find(y==1)
+    y;
+    
+    utripi = find(y==1);
     %utr = y(y==1)
 
 end
