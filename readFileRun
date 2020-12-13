@@ -1,0 +1,5 @@
+
+file = dir('/data/*.mat');
+for f = file'
+    f.name
+end
